@@ -18,7 +18,7 @@
 
 ## 📌 Projetos (em destaque)
 ### aqui estão alguns projetos que venho trabalhando, para desbloquear maior bagagem de conhecimento!!!
-link do repositório  
+link do repositório  https://github.com/PedroFel1pe/projetos_de_estudo
 
 
 ## 💡 Curiosidades
