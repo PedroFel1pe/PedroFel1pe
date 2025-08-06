@@ -17,13 +17,9 @@
 - Frameworks web (Flask ou Django)
 
 ## 📌 Projetos (em destaque)
-### 🧠 Sistema de Automação PDV
-> Script Python que lê arquivos `.ini` e `.cfg`, conecta com banco de dados local e exibe relatórios.  
-🔗 [Repositório aqui](https://github.com/seu-usuario/sistema-automacao-pdv)
+### aqui estão alguns projetos que venho trabalhando, para desbloquear maior bagagem de conhecimento!!!
+link do repositório  
 
-### 📊 Calculadora de Orçamento Pessoal
-> Interface simples com Python para ajudar usuários a organizar gastos.  
-🔗 [Repositório aqui](https://github.com/seu-usuario/calculadora-orcamento)
 
 ## 💡 Curiosidades
 🎮 Gosto de jogos de estratégia e animes  
